@@ -1,0 +1,63 @@
+.igen{
+    text-decoration: underline;
+    font-size: 40px;
+    font-family: 'Courier New';
+}
+
+
+.td{
+    text-decoration: underline;
+    size: 600px;
+    color: #ff4800;
+    font-family: Arial;
+}
+
+.td1{
+    text-decoration: underline;
+    size: 600px;
+    color: #6dcfeb;
+    font-family: Arial;
+}
+
+.td2{
+    text-decoration: underline;
+    size: 600px;
+    color: #71797E;
+    font-family: Arial;
+}
+
+.td3{
+    text-decoration: underline;
+    size: 600px;
+    color: #FFB3BE;
+    font-family: Arial;
+}
+
+.td4{
+    text-decoration: underline;
+    size: 600px;
+    color: #13500F;
+    font-family: Arial;
+}
+
+.td5{
+    text-decoration: underline;
+    size: 600px;
+    color: black;
+    font-family: Arial;
+}
+
+.minta{
+    text-decoration: underline;
+    font-family: Arial; 
+}
+
+.img{
+    width: 50%;         
+    max-width: 400px;  
+    height: auto;
+}
+
+body{
+    background-color: #4CAF50;
+ }
