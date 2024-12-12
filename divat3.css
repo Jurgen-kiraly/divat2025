@@ -1,7 +1,8 @@
 .igen{
     text-decoration: underline;
     font-size: 40px;
-    font-family: 'Courier New';
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 
 
@@ -36,7 +37,7 @@
 .td4{
     text-decoration: underline;
     size: 600px;
-    color: #13500F;
+    color: #4eac48;
     font-family: Arial;
 }
 
@@ -59,5 +60,5 @@
 }
 
 body{
-    background-color: #4CAF50;
+    background-color: rgb(186, 240, 186);
  }
